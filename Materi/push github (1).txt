@@ -1,0 +1,17 @@
+buat repo pertama kali push ke github
+1. buat repo github (konfigurasi token)
+2. git init di directory folder project
+3. git config user.name "Agung Rohimat"
+4. git config user.email "agungrohimat10@gmail.com"
+5. git remote add origin https://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 @github.com/username/nama-repo.git
+6. git add .
+7. git commit -m "Pesan"
+8. git push origin master
+
+sudah ada repo digithub & pernah push
+1. git add .
+2. git commit -m "Pesan"
+3. git push origin master
+
+
+php artisan migrate:refresh --seed
